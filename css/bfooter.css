@@ -1,0 +1,53 @@
+#footer {
+-moz-background-clip:border;
+-moz-background-origin:padding;
+-moz-background-size:auto auto;
+background-attachment:scroll;
+background-color:#171717;
+background-image:url("../images/footer-bg.jpg");
+background-position:left top;
+background-repeat:repeat-x;
+}
+#footer-inner {
+-moz-background-clip:border;
+-moz-background-origin:padding;
+-moz-background-size:auto auto;
+background-attachment:scroll;
+background-color:transparent;
+background-image:url("../images/footer-inner-bg.jpg");
+background-position:center top;
+background-repeat:no-repeat;
+color:#727272;
+font-size:100%;
+padding-bottom:10px;
+padding-left:0;
+padding-right:0;
+padding-top:30px;
+}
+#footer h2.box-title {
+color:#D4D4D4;
+}
+#footer a:link, #footer a:visited {
+color:#C7C6C6;
+}
+#footer-message {
+-moz-background-clip:border;
+-moz-background-origin:padding;
+-moz-background-size:auto auto;
+background-attachment:scroll;
+background-color:#121212;
+background-image:none;
+background-position:0 0;
+background-repeat:repeat;
+border-top-color:#313131;
+border-top-style:solid;
+border-top-width:1px;
+color:#C7C6C6;
+padding-bottom:0;
+padding-left:0;
+padding-right:0;
+padding-top:20px;
+}
+#footer-message a:link, #footer-message a:visited {
+color:#FFFFFF;
+}

@@ -1,0 +1,29 @@
+*****************Biverr.com Version 1.3***************** Released Aug 12th 2010
+
+admin/logout.php //Logout Fucntion fixed
+admin/php.ini to php_.ini //rename due to debugging
+join.php //fixed now redirection and account creation message shows
+order_progress.php //Cancle and complete url fixed!!
+order_cancel.php //Order cancle added new
+admin/users.php //fix for no userpicture //fix id error //fix for user delete //category link fixed
+userimg/nouser.gif //added for admin panel
+userimg/no-user.gif // added for froend end
+admin/config/helper.php //fixed reDirect function
+admin/db_config/db_cms.php //fixed CMS editing error
+admin/gigs.php  //delete gigs fixed
+users.php //no image for user fixed
+header.php //logout bug fixed
+css/style.css //.order-now-g fixed //userimage fix
+index.php //fixed for share bugs
+profile_right.php //addtoany fix
+right.php //addtoany fix
+categories.php //share fix
+config/config_global.php //admin emailid ,added a newline ****define ("SITE_MAIL","admin@yoursite.com");****
+
+
+
+*****************Biverr.com Version 1.2***************** Released Jul 28th 2010
+
+Admin Login fixed!
+Bad Bot Protection added!!
+Facebook Connectivity

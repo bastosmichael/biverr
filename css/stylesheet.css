@@ -1,0 +1,109 @@
+html, body { padding: 0; border: 0px none; font-family: Verdana; font-size: 11px; }
+
+/* Label */  
+label { width: 80px; padding-left: 20px; margin: 5px; float: left; text-align: left; }  
+
+/* Input text */
+input { margin: 5px; padding: 0px; float: left; border: 1px solid #cdcdcd; background-color: white; -moz-border-radius: 2px; }
+
+br { clear: left; }  
+
+.textbox { border: 1px solid #999999;  border-top-color: #CCCCCC;  border-left-color: #CCCCCC; color: #333333;  font: 90% Verdana, Helvetica, Arial, sans-serif; font-size: 11px; }
+
+h1 { font-size: 17px; }
+
+div { font-family: Verdana; font-size: 11px; }
+
+/* 'Login' Button */
+#submit { margin: 5px; padding: 0px; float: left; width: 50px; background-color: white; }
+
+#notification_error { color: red; height: auto; padding: 4px; text-align: center; }
+
+#login_response { overflow: auto; }
+ 
+#ajax_loading { display: none; font-size: 12px; font-family: Tahoma; }
+
+#logged_in { padding: 5px; margin: 23px 0 100px 43px; padding: 5px; text-align: center; width: 400px; }
+
+#status { margin-top: 20px; width: 310px; }
+
+ul.fly_txt{
+	list-style-type: none;
+	position: absolute;
+	left: 220px;
+	width: 274px;
+	text-align: center;
+}
+
+ul.fly_txt li{
+	display: inline;
+}
+
+ul.fly_txt li a{
+	display: block;
+	background-color: #000000;
+	color: #FFFFFF;
+	height: auto;
+	width: auto;
+	float: left;
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-right: 3px;
+	margin-left: 3px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	text-decoration: none;
+	margin-bottom: 4px;
+}
+
+.tag_img{
+	background-image: url(../images/bg-featured-label.png);
+	margin: 0px;
+	padding: 0px;
+	height: 58px;
+	width: 57px;
+	position: absolute;
+	left: 550px;
+}
+
+.tag_img_a{
+	background-image: url(../images/bg-featured-label.png);
+	margin: 0px;
+	padding: 0px;
+	height: 58px;
+	width: 57px;
+	position: absolute;
+	left: 43px;
+	top: -1px;
+}
+
+.link_new a{
+text-decoration:none;
+
+color:#1D8FC4;
+display:block;
+
+}
+.link_select a{
+text-decoration:none;
+display:block;
+color: #fff!important; font-weight: normal; 
+}
+.link_new a:hover{
+
+background:#0C9CF3;
+color:#FFFFFF;
+
+}
+
+.link_select{
+background:#0C9CF3;
+color:#FFFFFF;
+
+}
+
+.link_new a.current{
+background:#0C9CF3;
+
+color:#FFFFFF;
+}
